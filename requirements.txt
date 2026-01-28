@@ -1,5 +1,8 @@
 fastapi
 sqlalchemy 
 pydantic
-uvicorn
+uvicorn[standard]
 python-dotenv
+fastapi-users[sqlalchemy]
+imagekitio
+aiosqlite
